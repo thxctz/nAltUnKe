@@ -1,5 +1,4 @@
 # ¡HOLA, SOY ASH!
-## Prograadora en proceso 
-![Soy Ash](https://c.tenor.com/3FY_4-2BmY0AAAAC/hibike-euphonium.gif)
+![Soy Ash](https://i.gifer.com/origin/33/33d88994d07e5eca370d0776e5dd046c_w200.gif)
 
 
