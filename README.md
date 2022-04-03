@@ -4,4 +4,4 @@
 > Programming student with the passion to continue learning more and more
 > - [x] Building applications with Tkinter - python
 > - [x] Experience in creating web pages (HTML, CSS, Javascript)
-> - [] Get a job...
+> - [ ] Get a job
