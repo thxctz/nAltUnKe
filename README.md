@@ -1,7 +1,9 @@
 # **Hi, my name is Ashley Bueno :)**
 
 <img src="https://raw.githubusercontent.com/nAltUnKe/avatar/main/banner%20original.png" alt="banner that says Ashley Bueno - Software Development Student">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+II am currently preparing myself in software development with the purpose of creating large projects.
+I am very passionate about everything I do in the world of programming and I want to continue growing both in my career and in my knowledge.
+Besides that I would like to get a job and I will be happy to provide my services.<a href="">My CV</a>Based on the knowledge I have and my experiences.
 
 
 ## Find me around the web 🌎: <a href="https://app.genial.ly/editor/624b3559f91f1f0019d95973">Here</a>
